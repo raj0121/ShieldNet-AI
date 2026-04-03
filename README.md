@@ -1,4 +1,4 @@
-# 🛡️ CyberGuard AI - Advanced Cybersecurity Platform
+# 🛡️ ShieldNet AI - Advanced Cybersecurity Platform
 
 > **Revolutionary AI-powered cybersecurity solution for detecting intrusive activities in social media applications**
 
@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-CyberGuard AI is a comprehensive cybersecurity platform that combines artificial intelligence with real-time monitoring to detect and respond to threats in social media environments. The platform provides enterprise-grade security features with an intuitive, professional interface.
+ShieldNet AI is a comprehensive cybersecurity platform that combines artificial intelligence with real-time monitoring to detect and respond to threats in social media environments. The platform provides enterprise-grade security features with an intuitive, professional interface.
 
 ### 🎪 Key Highlights
 
@@ -98,7 +98,7 @@ CyberGuard AI is a comprehensive cybersecurity platform that combines artificial
 ## 📁 Project Structure
 
 ```
-cyberguard-ai-platform/
+ShieldNet-AI-platform/
 ├── 📁 frontend/                 # React Frontend Application
 │   ├── 📁 src/
 │   │   ├── 📁 components/       # Reusable React components
@@ -133,7 +133,7 @@ cyberguard-ai-platform/
 ### **1. Clone the Repository**
 ```bash
 git clone <repository-url>
-cd cyberguard-ai-platform
+cd ShieldNet-AI-platform
 ```
 
 ### **2. Frontend Setup**
@@ -312,4 +312,4 @@ For questions, issues, or support:
 
 ---
 
-**🛡️ CyberGuard AI - Protecting the digital world with intelligent security solutions**
+**🛡️ ShieldNet AI - Protecting the digital world with intelligent security solutions**
